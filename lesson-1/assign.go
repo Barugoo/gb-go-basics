@@ -15,6 +15,7 @@ func main() {
 	// инкремент (a = a + 1)
 	a++
 
+	// приведеие типов
 	var c float32
 	c = float32(a)
 }
